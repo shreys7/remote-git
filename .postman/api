@@ -19,6 +19,7 @@ files[] = {"path":"Kane.yaml","metaData":{}}
 files[] = {"path":"Legendary.yaml","metaData":{}}
 files[] = {"path":"new.yaml","metaData":{}}
 files[] = {"path":"Numaan.yaml","metaData":{}}
+files[] = {"path":"Pankaj.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
