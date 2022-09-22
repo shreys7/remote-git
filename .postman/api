@@ -1,11 +1,10 @@
-id = 019f5046-c8d6-418d-8045-09fab7c01cd4
+id = 1b792591-e528-4a03-86b4-266e901fdd83
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"477932-775865e0-58e7-4f41-9ce5-9d58bfbae8d4","path":"Cloud API_477932-775865e0-58e7-4f41-9ce5-9d58bfbae8d4 copy.json","metaData":{}}
-files[] = {"id":"813056-6e9ac931-3c4d-4578-b8b8-d381730a955d","path":"New Collection.json","metaData":{}}
+files[] = {"id":"477932-775865e0-58e7-4f41-9ce5-9d58bfbae8d4","path":"Cloud API_477932-775865e0-58e7-4f41-9ce5-9d58bfbae8d4.json","metaData":{}}
 
 [relations.collections.metaData]
 
@@ -13,13 +12,7 @@ files[] = {"id":"813056-6e9ac931-3c4d-4578-b8b8-d381730a955d","path":"New Collec
 rootDirectory = postman/schemas
 files[] = {"path":"Hello.yaml","metaData":{}}
 files[] = {"path":"Hiii.yaml","metaData":{}}
-files[] = {"path":"index copy.json","metaData":{}}
 files[] = {"path":"index.json","metaData":{}}
-files[] = {"path":"Kane.yaml","metaData":{}}
-files[] = {"path":"Legendary.yaml","metaData":{}}
-files[] = {"path":"new.yaml","metaData":{}}
-files[] = {"path":"Numaan.yaml","metaData":{}}
-files[] = {"path":"Pankaj.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
